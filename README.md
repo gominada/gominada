@@ -5,7 +5,7 @@ I'm Adán, a passionate Junior Developer eager to learn, grow, and contribute to
 💻 Skills & Interests:
 
     🌐 Frontend: HTML, CSS, JavaScript, Angular
-    ⚙️ Backend: Node.js, Python, Django, Java, SpringBoot
+    ⚙️ Backend: Node.js, Python, Django, Java, SpringBoot, PHP
     📦 Version Control: Git & GitHub
     📚 Always learning: React, Rust, Electron, Kotlin
 
